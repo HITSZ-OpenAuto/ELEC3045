@@ -1,0 +1,162 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 552,
+    "time": 1794023141,
+    "hash": "68ccc10bb1b055a4a0d8c2d99b7e86913e57ac02"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1789129686,
+    "hash": "b5bc6ff92a8fb0ce27fe60f5d21bee644ca43bdc"
+  },
+  "README.md": {
+    "size": 1538,
+    "time": 1790045396,
+    "hash": "85e205db36e210c4ccdeff0267b5b59d2d6c9dbf"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1789129686,
+    "hash": "b5bc6ff92a8fb0ce27fe60f5d21bee644ca43bdc"
+  },
+  "assignments/田雨藤-2023311B19-光电检测技术作业的副本.pdf": {
+    "size": 25149848,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1789129686,
+    "hash": "b5bc6ff92a8fb0ce27fe60f5d21bee644ca43bdc"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1789129686,
+    "hash": "b5bc6ff92a8fb0ce27fe60f5d21bee644ca43bdc"
+  },
+  "labs/实验1/2023311101_罗模煊_实验1线阵CCD综合实验报告.docx": {
+    "size": 2918814,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "labs/实验1/2023311101_罗模煊_实验1线阵CCD综合实验报告.pdf": {
+    "size": 1990598,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "labs/实验1/实验1_指导书_线阵CCD原理及应用综合实验.pdf": {
+    "size": 1292733,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "labs/实验2/实验2_指导书_光电探测特性测试实验.pdf": {
+    "size": 1813697,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "labs/实验2/画图.xlsx": {
+    "size": 53059,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "labs/实验2/罗模煊_2023311101_实验2_报告_光电探测器特性实验.docx": {
+    "size": 1694245,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "labs/实验2/罗模煊_2023311101_实验2_报告_光电探测器特性实验.pdf": {
+    "size": 1156359,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "materials/光电技术第2版(江文杰主编;施建华,谢文科,马浩统等编著).pdf": {
+    "size": 78910988,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1789129686,
+    "hash": "b5bc6ff92a8fb0ce27fe60f5d21bee644ca43bdc"
+  },
+  "notes/光电检测技术复习总结v1.1.pdf": {
+    "size": 67322087,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "notes/光电检测技术复习总结v1.2.pdf": {
+    "size": 82318463,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "notes/光电检测技术复习总结v1.3.pdf": {
+    "size": 90978897,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "readme.toml": {
+    "size": 1610,
+    "time": 1790045434,
+    "hash": "45e432cec240d91f0a0227df815471ecf9b53e01"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1789129686,
+    "hash": "b5bc6ff92a8fb0ce27fe60f5d21bee644ca43bdc"
+  },
+  "slides/第01章 光辐射探测的理论基础.pdf": {
+    "size": 21814131,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "slides/第02章 常用光辐射源.pdf": {
+    "size": 6324953,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "slides/第03章_光电导探测器.pdf": {
+    "size": 6791679,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "slides/第04章_光伏探测器.pdf": {
+    "size": 17643435,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "slides/第05章_光电子发射探测器.pdf": {
+    "size": 12702836,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "slides/第06章_热探测器.pdf": {
+    "size": 14556456,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "slides/第07章_光电成像器件.pdf": {
+    "size": 17444809,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "slides/第08章_光学信号的调制.pdf": {
+    "size": 13627618,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "slides/第09章_直接探测和相干探测.pdf": {
+    "size": 6860863,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "slides/第10章_光电检测电路与信号处理.pdf": {
+    "size": 5343000,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  },
+  "slides/第11章_典型光电系统的分析与设计.pdf": {
+    "size": 3876795,
+    "time": 1789135483,
+    "hash": "9ca59259d8e8d39b5f90e76e76e3a69d2eafecb1"
+  }
+}
